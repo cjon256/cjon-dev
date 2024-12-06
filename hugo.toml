@@ -2,3 +2,8 @@ baseURL = 'https://cjon.dev/'
 languageCode = 'en-us'
 title = "cjon's blog"
 theme = 'ananke'
+
+copyright = "Cullen J. O'Neill"
+
+[Params]
+  favicon="favicon32x32.png"
