@@ -1,9 +1,13 @@
 baseURL = 'https://cjon.dev/'
 languageCode = 'en-us'
 title = "cjon's blog"
-theme = 'ananke'
+theme = 'papermod'
 
-copyright = "Cullen J. O'Neill"
+copyright = "© 2024 Cullen J. O'Neill"
 
 [Params]
   favicon="favicon32x32.png"
+
+[markup]
+  [markup.highlight]
+    style = 'doom-one'
