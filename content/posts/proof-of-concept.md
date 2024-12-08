@@ -1,6 +1,7 @@
 +++
 date = '2024-12-06T11:26:44-05:00'
 title = 'Proof of Concept'
+expriryDate = '2024-12-11T10:03:19-05:00'
 +++
 
 Quote of the day: "In this day and age, the most significant competitive threats (if competitors pursue them) and opportunities (if your company goes after them first) come from new capabilities provided or enabled by information technology innovations."
