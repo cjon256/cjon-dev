@@ -1,7 +1,7 @@
 baseURL = 'https://cjon.dev/'
 languageCode = 'en-us'
 title = "cjon's blog"
-theme = 'papermod'
+theme = 'PaperMod'
 
 copyright = "© 2024 Cullen J. O'Neill"
 
